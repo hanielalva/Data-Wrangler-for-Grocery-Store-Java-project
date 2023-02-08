@@ -1,0 +1,143 @@
+<groceryItems>
+
+    <item>
+        <name>Spinach</name>
+        <category>Produce</category>
+        <price>3.97</price>
+        <amt>5</amt>
+    </item>
+
+    <item>
+        <name>Onions</name>
+        <category>Produce</category>
+        <price>2.99</price>
+        <amt>5</amt>
+    </item>
+
+    <item>
+        <name>Apple</name>
+        <category>Produce</category>
+        <price>1.20</price>
+        <amt>4</amt>
+    </item>
+
+    <item>
+        <name>Bananas</name>
+        <category>Produce</category>
+        <price>4.99</price>
+        <amt>2</amt>
+    </item>
+
+    <item>
+        <name>Turkey</name>
+        <category>Deli</category>
+        <price>5.49</price>
+        <amt>1</amt>
+    </item>
+
+    <item>
+        <name>Bacon</name>
+        <category>Deli</category>
+        <price>3.72</price>
+        <amt>4</amt>
+    </item>
+
+    <item>
+        <name>Salami</name>
+        <category>Deli</category>
+        <price>5.49</price>
+        <amt>5</amt>
+    </item>
+
+    <item>
+        <name>Sausages</name>
+        <category>Deli</category>
+        <price>3.49</price>
+        <amt>10</amt>
+    </item>
+
+    <item>
+        <name>Cheetos</name>
+        <category>Snacks</category>
+        <price>4.19</price>
+        <amt>8</amt>
+    </item>
+
+    <item>
+        <name>Doritos</name>
+        <category>Snacks</category>
+        <price>4.50</price>
+        <amt>2</amt>
+    </item>
+
+    <item>
+        <name>Pringles</name>
+        <category>Snacks</category>
+        <price>2.19</price>
+        <amt>10</amt>
+    </item>
+
+    <item>
+        <name>Goldfish</name>
+        <category>Snacks</category>
+        <price>5.45</price>
+        <amt>6</amt>
+    </item>
+
+    <item>
+        <name>Honey Mustard</name>
+        <category>Ingredients</category>
+        <price>3.49</price>
+        <amt>7</amt>
+    </item>
+
+    <item>
+        <name>Chili Powder</name>
+        <category>Ingredients</category>
+        <price>3.98</price>
+        <amt>4</amt>
+    </item>
+
+    <item>
+        <name>Cheese</name>
+        <category>Ingredients</category>
+        <price>2.15</price>
+        <amt>5</amt>
+    </item>
+
+    <item>
+        <name>Salt</name>
+        <category>Ingredients</category>
+        <price>1.50</price>
+        <amt>2</amt>
+    </item>
+
+    <item>
+        <name>Gatorade</name>
+        <category>Drinks</category>
+        <price>1.75</price>
+        <amt>5</amt>
+    </item>
+
+    <item>
+        <name>Mountain Dew</name>
+        <category>Drinks</category>
+        <price>1.25</price>
+        <amt>3</amt>
+    </item>
+
+    <item>
+        <name>Red Bull</name>
+        <category>Drinks</category>
+        <price>2.79</price>
+        <amt>9</amt>
+    </item>
+
+    <item>
+        <name>Monster</name>
+        <category>Drinks</category>
+        <price>3.15</price>
+        <amt>6</amt>
+    </item>
+
+</groceryItems>
